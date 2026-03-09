@@ -105,14 +105,29 @@ ML-based recommendation system using collaborative filtering, content-based filt
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=heyruchika-01&show_icons=true&locale=en&theme=tokyonight" alt="heyruchika-01" />
-</p>
-
-<p align="center">
+  &nbsp;
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=heyruchika-01&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="heyruchika-01" />
 </p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=heyruchika-01&theme=tokyonight" alt="heyruchika-01" />
+</p>
+
+<!-- GitHub Profile Summary Cards -->
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=heyruchika-01&theme=tokyonight" alt="Profile Details" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=heyruchika-01&theme=tokyonight" alt="Repos Per Language" />
+  &nbsp;
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=heyruchika-01&theme=tokyonight" alt="Most Commit Language" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=heyruchika-01&theme=tokyonight" alt="Stats" />
+  &nbsp;
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=heyruchika-01&theme=tokyonight&utcOffset=+5.30" alt="Productive Time" />
 </p>
 
 ---
