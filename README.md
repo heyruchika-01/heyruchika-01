@@ -82,9 +82,22 @@ ML-based recommendation system using collaborative filtering, content-based filt
 
 - 🥇 **Top 300 national rank** – CodeChef Contest
 - 📊 Completed **Graph Theory Programming Camp** by Algo University (Codeforces Master mentorship) — solved 9 advanced graph problems
-- 📜 **Oracle Certified Foundations Associate**
-- 💼 **Software Engineering Job Simulation** – JPMorgan Chase
-- ☁️ **Solutions Architecture Job Simulation** – Amazon Web Services (AWS)
+- 🌐 **Campus Ambassador** – GeeksforGeeks
+
+---
+
+### 📜 Certifications
+
+- ✅ Algorithms by Stanford University – Coursera
+- ✅ Introduction to Frontend Development – Coursera
+- ✅ Data Structures using C/C++ – Udemy
+- ✅ Introduction to DevOps – Coursera
+- ✅ Postman API Fundamentals – Badgr
+- ✅ SQL Essential Training – LinkedIn Learning
+- ✅ Linux Foundation Certification – Credly
+- ✅ Oracle Certified Foundations Associate
+- ✅ Software Engineering Job Simulation – JPMorgan Chase
+- ✅ Solutions Architecture Job Simulation – Amazon Web Services (AWS)
 
 ---
 
@@ -104,19 +117,6 @@ ML-based recommendation system using collaborative filtering, content-based filt
 
 ---
 
-<p align="center">⭐️ From <a href="https://github.com/heyruchika-01">Ruchika Singh</a></p>## Hi there 👋
+<p align="center">🔥 <strong>Keep Learning, Keep Growing!</strong> 🔥</p>
 
-<!--
-**heyruchika-01/heyruchika-01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">⭐️ From <a href="https://github.com/heyruchika-01">Ruchika Singh</a></p>
